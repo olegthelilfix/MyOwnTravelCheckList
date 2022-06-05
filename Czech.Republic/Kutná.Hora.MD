@@ -1,0 +1,2 @@
+- [x] [Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary)
+- [x] [Lego museum](https://destinace.kutnahora.cz/d/museum-of-lego-building-blocks-and-lego-store)
