@@ -8,7 +8,6 @@
 - [x] [Micropia](https://en.wikipedia.org/wiki/Micropia_(museum))
 - [ ] [Van Gogh Museum](https://en.wikipedia.org/wiki/Van_Gogh_Museum)
 - [ ] [Anne Frank House](https://en.wikipedia.org/wiki/Anne_Frank_House)
-- 
 
 ## animals
 - [ ] [Natura Artis Magistra](https://en.wikipedia.org/wiki/Natura_Artis_Magistra)
